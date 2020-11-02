@@ -1,0 +1,44 @@
+body{
+    background-color: papayawhip;
+    
+}
+nav{
+    text-align: center;
+    font-size: 20px;
+}
+h2{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    color: #f05454;
+    font-size: 2rem;
+    
+}
+h1:hover{
+    color: wheat;
+    background-color: peru; 
+}
+h1{
+    font-family: 'Shadows Into Light', cursive;
+    color: #f05454;
+    font-size: 2rem;
+}
+p{
+    font-size: 20px;
+    width: 100%;
+}
+table{
+    font-size: 20px;
+}
+form{
+    font-size: 20px;
+}
+@media screen and (max-width:700px)
+{
+    h1{
+        font-size: 3rem;
+    }
+    p{
+        font-size: 30px;
+    }
+}
+
